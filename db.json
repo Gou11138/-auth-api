@@ -1,6 +1,7 @@
 {
   "keys": {
-    "KEY123": { "hwid": "" },
-    "KEY456": { "hwid": "" }
+    "KEYCLIENTE1": { "hwid": "" },
+    "KEYCLIENTE2": { "hwid": "" },
+    "KEYCLIENTE3": { "hwid": "" }
   }
-} 
+}
